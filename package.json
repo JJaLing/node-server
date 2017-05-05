@@ -1,0 +1,22 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "a node.js server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJaLing/node-server.git"
+  },
+  "author": "JJaling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JJaLing/node-server/issues"
+  },
+  "homepage": "https://github.com/JJaLing/node-server#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
